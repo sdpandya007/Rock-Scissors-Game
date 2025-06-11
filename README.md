@@ -43,7 +43,7 @@ A fun and simple *Rock & Scissors* game built with [Streamlit](https://streamlit
 
 ## 🚀 Live Demo
 
-👉 [Click here to play the game live on Streamlit Cloud](https://https://rock-scisors-game-hc7whmwvrjszytblgj5tw7.streamlit.app/)
+👉 (https://https://rock-scisors-game-hc7whmwvrjszytblgj5tw7.streamlit.app/)
 
 ---
 
