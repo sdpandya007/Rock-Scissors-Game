@@ -69,7 +69,7 @@ with col1:
             st.session_state.player1_choice = player1_choice
             st.session_state.show_player2 = True
             st.session_state.hide_player1 = True
-            st.experimental_rerun()
+            st.rerun()
     else:
         st.write("Choice submitted!")
         st.write("Waiting for Player 2..." if game_mode == "Multiplayer" else "Waiting for Computer...")
