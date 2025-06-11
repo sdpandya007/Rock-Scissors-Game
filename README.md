@@ -43,7 +43,7 @@ myenv\Scripts\activate
 
 ## 🚀 Live Demo
 
-👉 [Click here to play the game live on Streamlit Cloud](https://rock-scissors-game.streamlit.app)
+👉 [Click here to play the game live on Streamlit Cloud](https://https://rock-scisors-game-hc7whmwvrjszytblgj5tw7.streamlit.app/)
 
 ---
 
