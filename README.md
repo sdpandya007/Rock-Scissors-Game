@@ -43,7 +43,7 @@ A fun and simple *Rock & Scissors* game built with [Streamlit](https://streamlit
 
 ## 🚀 Live Demo
 
-👉 (https://https://rock-scisors-game-hc7whmwvrjszytblgj5tw7.streamlit.app/)
+👉 [Try the Mortgage Calculator Live](https://rock-scisors-game-hc7whmwvrjszytblgj5tw7.streamlit.app/)
 
 ---
 
